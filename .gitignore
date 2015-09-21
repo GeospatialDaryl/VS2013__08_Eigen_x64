@@ -12,7 +12,11 @@ $RECYCLE.BIN/
 *.cab
 *.msi
 *.msm
+*.sdf
 *.msp
+*.pdb
+
+build/Eigen.sdf
 
 # Windows shortcuts
 *.lnk

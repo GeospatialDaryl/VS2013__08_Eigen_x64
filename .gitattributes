@@ -16,3 +16,4 @@
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
 *.sdf filter=lfs diff=lfs merge=lfs -text
+build/Eigen.sdf filter=lfs diff=lfs merge=lfs -text
